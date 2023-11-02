@@ -1,0 +1,53 @@
+/*body{
+    background-color: rgba(30, 30, 61, 0.836);
+}
+.AllPicture {
+    display: flex;
+   margin-top: 5%;
+ flex-direction: column;
+ 
+}
+
+ h2{
+    position: absolute;
+    padding-left: 220px;
+    font-size: 30px;
+    
+ }   
+
+.img1 img {
+    width: 600px;
+    border: 1px solid black;
+    object-fit: fill;
+  
+   
+}
+
+.img2 img {
+display:flow-root;
+    width: 300px;
+
+   border: 1px solid black;
+ 
+}
+
+.img3 img {
+    width: 200px;
+  
+    border: 1px solid black;
+    
+} */
+
+img {
+    width: 500px;
+    height: 600px;
+object-fit:cover;
+}
+
+
+
+
+
+
+
+
